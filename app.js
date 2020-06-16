@@ -111,7 +111,8 @@ console.log(s2 + " " + s1);
 // - The driver's name goes first.
 // - Yo, the navigator goes first definitely.
 // - What?! You both have the same name?
-
+console.log(s1);
+console.log(s2);
 // Bonus Time!
 // Bonus 1:
 // Go to lorem ipsum generator and:
